@@ -11,7 +11,7 @@
 
   1. cd to server folder
    ```sh
-   cd server
+   cd flutter_nodejs_socketio_demo\server
    ```
    
    2. Run server (Requires node.js)
