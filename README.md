@@ -18,3 +18,5 @@
    ```sh
    node server.js
    ```
+
+  3. Now you can start and use the Flutter project in the client folder with the help of an emulator.
