@@ -19,4 +19,15 @@
    node server.js
    ```
 
-  3. Now you can start and use the Flutter project in the client folder with the help of an emulator.
+### Running the Client
+
+  1. cd to client folder
+   ```sh
+   cd flutter_nodejs_socketio_demo\client\flutter_socketio_demo
+   ```
+   
+   2. Run Pub get
+   ```sh
+   flutter pub get
+   ```
+   3. Now you can start and use the Flutter project in the client folder with the help of an emulator.
